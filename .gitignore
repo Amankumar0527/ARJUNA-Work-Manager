@@ -1,0 +1,50 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+!.env.*.example
+
+# Dependencies and generated builds
+node_modules/
+dist/
+dist-ssr/
+
+# Android local and generated files
+android/local.properties
+android/.gradle/
+android/build/
+android/app/build/
+android/captures/
+*.jks
+*.keystore
+
+# Supabase local temporary files
+supabase/.temp/
+
+# Private credentials
+secrets/

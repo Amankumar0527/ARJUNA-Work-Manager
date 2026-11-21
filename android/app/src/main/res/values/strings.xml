@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">A.R.J.U.N.A. Work Manager</string>
+    <string name="title_activity_main">A.R.J.U.N.A. Work Manager</string>
+    <string name="package_name">com.nexonix.arjuna</string>
+    <string name="custom_url_scheme">com.nexonix.arjuna</string>
+</resources>
